@@ -1,0 +1,46 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+.section-area{
+    width: 50%;
+    display: flex;
+}
+.welcome-area{
+    padding: 15px;
+    padding-left: 40px;
+
+}
+.text-style{
+    text-align: justify;
+}
+.backgroun-img{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.welcome{
+   
+    font-size: 200%;
+    font-weight: 700;
+
+}
+.rose{
+    color: red;
+    font-size: 150%;
+    font-weight: 700;
+    
+}
+.img-size{
+   width: 150%;
+   
+   padding: 70px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, orange);
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px 40px;
+
+}
